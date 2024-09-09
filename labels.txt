@@ -1,0 +1,8 @@
+0 Snake
+1 Close
+2 Super
+3 Angri
+4 Victory
+5 No
+6 Four
+7 Done
